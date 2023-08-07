@@ -34,7 +34,7 @@ The project has had a great start, we are mostly working on front-end stuff righ
 * URL: https://github.com/isaiah0112/POS-System/commit/a2f2d7b9ed197ad9fd5172ad70af7bc937a0bf9f
 * Connected GUI's all together for first demo
 * URL: https://g63219f6757a0ac6f2302d29c471943c52f68cb12ithub.com/isaiah0112/POS-System/commit/
-* Next Steps: Create a Manager Mode, and improve the check modes features
+* Created a Manager Mode - you can hire/dismiss employees, change menu items, and change menu prices
 ### Isaiah Garcia
 * Created the Clock In/Out mode so that employees can clock their time worked
 * URL:
